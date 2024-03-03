@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Diploma in Computer Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Computer Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajwardhan-patil&label=Profile%20views&color=0e75b6&style=flat" alt="rajwardhan-patil" /> </p>
 
