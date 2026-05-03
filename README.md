@@ -34,10 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajwardhan-patil&show_icons=true&locale=en" alt="rajwardhan-patil" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raj/Raj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raj/Raj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raj/Raj/output/pacman-contribution-graph.svg">
-</picture>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajwardhan-patil&" alt="rajwardhan-patil" /></p>
