@@ -1,5 +1,64 @@
 # 💫 About Me:
-I’m a Computer Engineering student focused on building practical, problem-solving tech. I enjoy working on backend systems, data-driven applications, and experimenting with AI-powered tools.<br><br>Currently, I’m exploring:<br><br>Cloud Computing and system design<br>Data Structures & efficient algorithms<br>Beginner-friendly AI/ML applications<br>Real-world automation and productivity tools<br><br>I’ve worked on projects like:<br><br>VAWAR – an AI-powered agriculture assistant integrating weather insights, crop recommendations, pest detection, and market analysis<br>Building APIs and backend systems for decision-support applications<br><br>I like creating things that are not just “projects for marks” but actually useful in real life.<br><br>🛠 Tech Stack<br>Languages: Python, C, C++<br>Tools & Tech: Git, GitHub, REST APIs<br>Learning: Cloud platforms, AI integration, system design<br>🎯 Goals<br>Build scalable, real-world applications<br>Get strong in backend + cloud engineering<br>Explore AI in practical domains like agriculture and automation<br>📫 Connect<br>Open to collaborations on meaningful projects<br>Always learning, always building
+## 👨‍💻 About Me
+
+I’m a Computer Engineering student focused on building practical, problem-solving technology.  
+I enjoy working on backend systems, data-driven applications, and experimenting with AI-powered tools.
+
+I believe in building things that are actually useful in the real world, not just projects for grades.
+
+---
+
+## 🚀 Currently Exploring
+
+- ☁️ Cloud Computing & System Design  
+- 🧠 Data Structures & Efficient Algorithms  
+- 🤖 Beginner-friendly AI/ML Applications  
+- ⚙️ Real-world Automation & Productivity Tools  
+
+---
+
+## 🛠 Projects
+
+### 🌱 VAWAR – AI-Powered Agriculture Assistant
+- Integrates weather insights, crop recommendations, pest detection, and market analysis  
+- Designed to assist farmers with smarter decision-making  
+
+### 🔧 Backend & API Development
+- Built APIs and backend systems for decision-support applications  
+- Focus on scalability, efficiency, and real-world usability  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- Python  
+- C  
+- C++  
+
+**Tools & Technologies**
+- Git & GitHub  
+- REST APIs  
+
+**Currently Learning**
+- Cloud Platforms  
+- AI Integration  
+- System Design  
+
+---
+
+## 🎯 Goals
+
+- Build scalable, real-world applications  
+- Strengthen backend and cloud engineering skills  
+- Apply AI in practical domains like agriculture and automation  
+
+---
+
+## 📫 Connect
+
+- Open to collaborations on meaningful projects  
+- Always learning, always building  
 
 
 ## 🌐 Socials:
